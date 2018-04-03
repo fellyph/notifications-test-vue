@@ -1,0 +1,19 @@
+{
+  "notifications": [
+    {
+      "title": "Notification 1",
+      "date": "30 Jun",
+      "link": "#"
+    },
+    {
+      "title": "Notification 2",
+      "date": "20 Jul",
+      "link": "#"
+    },
+    {
+      "title": "Notification 3",
+      "date": "10 Aug",
+      "link": "#"
+    }
+  ]
+}
